@@ -4,8 +4,8 @@ Lern-App für die Truppmannausbildung Teil 1 der **Freiwilligen Feuerwehr Jetten
 Hier liegen nur die fertigen Android-Apps; der Quellcode ist nicht öffentlich.
 
 ## Installieren
-1. Unter [Releases](../../releases/latest) die Datei `FeuerwehrLerntrainer.apk` herunterladen
-   (die App heißt auf dem Handy „Lerntrainer FF Jettenbach“).
+1. Direkt herunterladen: **https://github.com/Frank-Jettenbach/feuerwehr-lerntrainer-app/releases/latest/download/LerntrainerFFJettenbach.apk**
+   (immer die neueste Version; die App heißt auf dem Handy „Lerntrainer FF Jettenbach“).
 2. Öffnen und „Installation aus unbekannten Quellen“ für den Browser bzw. Dateimanager erlauben.
 
 Neue Versionen lassen sich einfach darüber installieren, der Lernstand bleibt erhalten.
